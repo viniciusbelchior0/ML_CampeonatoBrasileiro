@@ -13,8 +13,8 @@ Dados originalmente coletados de: [FBRef](https://fbref.com/en/) |
 Dados individuais para cada time: [dados para Equipes (ex: Goiás)](https://fbref.com/en/squads/78c617cc/2024/matchlogs/c38/schedule/Goias-Scores-and-Fixtures-Serie-B). \n
 
 Os dados utilizados refletem capacidade ofensivas e defensivas dos times; estatísticas auxiliares também são utilizadas.
-Clique aqui para conferir o [dicionário de dados](https://github.com/viniciusbelchior0/EstudosdeCaso/blob/main/Esportes/ML_CampeonatoBrasileiro/Dicionario_Dados.pdf) e
-a [Pipeline do projeto](https://raw.githubusercontent.com/viniciusbelchior0/EstudosdeCaso/main/Esportes/ML_CampeonatoBrasileiro/Workflow_cb.png).
+Clique aqui para conferir o [dicionário de dados](https://github.com/viniciusbelchior0/CampeonatoBR_serieB/blob/main/references/dicionario_dados_antigo.pdf) e
+a [Pipeline do projeto](https://github.com/viniciusbelchior0/CampeonatoBR_serieB/blob/main/README.md).
 """)
 
 # fazendo as tabelas
